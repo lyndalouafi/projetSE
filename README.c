@@ -3,7 +3,7 @@
 #include <time.h>
 #include <pthread.h>
 #include <semaphore.h>
-
+/* LYNDA LOUAFI & LYNDA RAHAB */ 
 #define TAILLE_MIN 2
 #define TAILLE_MAX 10
 #define VALEUR_MAX 9
